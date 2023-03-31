@@ -1,6 +1,6 @@
 Name:		texlive-bearwear
 Version:	54826
-Release:	1
+Release:	2
 Summary:	Shirts to dress TikZbears
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bearwear
